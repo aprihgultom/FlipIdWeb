@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SendMoney - Simpan dan Buat Transaksi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>edf82299-289a-411c-917b-627eb8beea1d</testCaseGuid>
+</TestCaseEntity>
